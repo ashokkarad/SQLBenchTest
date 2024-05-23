@@ -2,8 +2,6 @@ use master
 go
 set nocount on
 go
-use WealthBench
-go
 
 /*
 alter database WealthBench set single_user with rollback immediate
